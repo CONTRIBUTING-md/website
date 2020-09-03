@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## CONTRIBUTING.md
+CONTRIBUTING.md is an open Hacktoberfest meetup for anyone who wants to join. You might be interested in learning more about how you can contribute, we'll have some people over from fun projects to join and you can meet the community and network. Are you curious about the projects? Check back regularly at [our meetup page](https://contributing.today/) to see our interviews with contributors & maintainers.
 
-You can use the [editor on GitHub](https://github.com/CONTRIBUTING-md/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Hacktoberfest
+Hacktoberfest — brought to you by DigitalOcean in partnership with Dev & Intel — is a month-long celebration of open source software. Maintainers are invited to guide would-be contributors towards issues that will help move the project forward, and contributors get the opportunity to give back to both projects they like and others they've just discovered. No contribution is too small — bug fixes and documentation updates are valid ways of participating.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Can't make it to this online meetup? Hacktoberfest is virtual and open to participants from around the globe. [Sign up to participate today](https://hacktoberfest.digitalocean.com/).
 
-### Markdown
+#### Rules and Rewards
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+First, sign up on the Hacktoberfest site at [https://hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com). To qualify for the official limited edition Hacktoberfest shirt, you must register and make four pull requests between October 1-31. Pull requests can be to any public repo on GitHub, not just the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as spam or spammy behavior, or not in line with the project’s code of conduct, you will be ineligible to participate.
 
-```markdown
-Syntax highlighted code block
+Connect with other Hacktoberfest participants by using [@DigitalOcean](https://twitter.com/digitalocean), [@hacktoberfest](https://twitter.com/hacktoberfest), #hacktoberfest on your social media platform of choice.
 
-# Header 1
-## Header 2
-### Header 3
+New to DigitalOcean? Receive USD $100 in infrastructure credit at [https://do.co/hacktoberfest100](https://do.co/hacktoberfest100).
 
-- Bulleted
-- List
+#### Event code of conduct
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CONTRIBUTING-md/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Hacktoberfest meetups are welcoming, open, and inclusive. Please read our [Events Code of Conduct](https://do.co/hacktoberconduct) before attending. Happy hacking!
