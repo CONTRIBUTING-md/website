@@ -1,7 +1,7 @@
 ## CONTRIBUTING.md
 CONTRIBUTING.md is an open Hacktoberfest meetup for anyone who wants to join. You might be interested in learning more about how you can contribute, we'll have some people over from fun projects to join and you can meet the community and network. Are you curious about the projects? Check back regularly at [our meetup page](https://contributing.today/) to see our interviews with contributors & maintainers.
 
-{% include yt.html id=page.youtubeId %}
+[RSVP and join us for CONTRIBUTING.md](https://organize.mlh.io/participants/events/4258-contributing-md)
 
 ## Agenda
 
