@@ -1,5 +1,10 @@
 ## CONTRIBUTING.md
-CONTRIBUTING.md is an open Hacktoberfest meetup for anyone who wants to join. You might be interested in learning more about how you can contribute, we'll have some people over from fun projects to join and you can meet the community and network. Are you curious about the projects? Check back regularly at [our meetup page](https://contributing.today/) to see our interviews with contributors & maintainers.
+CONTRIBUTING.md is a virtual Hacktoberfest meetup, free and open for anyone who wants to join. Learn what Open Source projects are looking for contributions, which communities are looking for new members, and who is looking for advice from someone with your exact skill set. Check [our meetup page](https://contributing.today/) regularly to watch interviews with contributors & maintainers we'll release until the event.
+
+## Hosted by
+Nick Trogh and Suzanne Daniels
+From Contributing.today
+We're looking forward to bring together the communities we work with, get them excited about contributing to Open Source software, or find new communities and projects to work on. While the organizers all work for the same major tech company, that's just coincidental. It's merely how we've found each other. 
 
 ## RSVP
 [RSVP and join us for CONTRIBUTING.md](https://organize.mlh.io/participants/events/4258-contributing-md)
@@ -9,11 +14,11 @@ CONTRIBUTING.md is an open Hacktoberfest meetup for anyone who wants to join. Yo
 | Time (CEST) |  |
 | :------------- | :---------- | 
 | **16h00** | Welcome |
-**16h15** | How to get started with open source |
+**16h15** | How to get started with Open Source |
 **16h45** | Introduction to Git |
-**17h15** | Workshops: writing a code of conduct, introduction to OSS licenses, writing a readme.md |
+**17h15** | Workshops: Adopting a Code of Conduct, Introduction to OSS licenses, Writing a readme.md |
 **18h15** | Break 🎉 |
-**19h00** | Getting to know the project and maintainers |
+**19h00** | Getting to know the projects and maintainers |
 **20h00** | Get hacking 🚀 |
 **23h00** | Show and tell |
 **00h00** | Closing |
