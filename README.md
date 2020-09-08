@@ -14,7 +14,7 @@ We're looking forward to bring together the communities we work with, get them e
 | Time (CEST) |  |
 | :------------- | :---------- | 
 | **16h00** | Welcome |
-**16h15** | How to get started with Open Source |
+**16h15** | How to get started with Open Source - Sasha Rosenbaum, Product Manager at GitHub |
 **16h45** | Introduction to Git |
 **17h15** | Workshops: Adopting a Code of Conduct, Introduction to OSS licenses, Writing a readme.md |
 **18h15** | Break 🎉 |
