@@ -1,0 +1,17 @@
+name: website
+id: ari:cloud:compass:d88c97f6-20a1-4de7-b0ce-e58c0fcf0c0a:component/26adf97a-7ba2-49d5-9125-6ed48391e449/8cff7830-3743-4ee5-8373-ea1921a5b973
+description: null
+configVersion: 1
+typeId: WEBSITE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/CONTRIBUTING-md/website
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:html
+  - source:github
+customFields: null
